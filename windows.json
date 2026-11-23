@@ -1,5 +1,5 @@
 {
-  "versionCode": 32,
-  "installer": "https://github.com/AudiaOptima/xtra-radio-releases/releases/download/windows-v1.0.31/Xtra-Radio-Setup.exe",
-  "sha256": "7e288b28aa36e3050698e4f533550a547cad8c717fe2e4b7116d57ae9587632a"
+  "versionCode": 33,
+  "installer": "https://github.com/AudiaOptima/xtra-radio-releases/releases/download/windows-v1.0.32/Xtra-Radio-Setup.exe",
+  "sha256": "a06f17199211d4f2b83fd8aaeb92b31e28b44ab121373bb7f25eefc3817ba28f"
 }
